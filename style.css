@@ -1,0 +1,14 @@
+form {
+    display: flex;
+    flex-flow: column;
+    max-width: 300px;
+}
+
+form > * {
+    margin: 5px;
+}
+
+p {
+    text-align: right;
+    margin-top: 5%;
+}
